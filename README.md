@@ -7,8 +7,6 @@ A scalable Pareto manifold approximation scheme for high-dimensional models, usi
 
 ## Install
 
-## Install
-
 ```bash
 git clone https://github.com/smjtgupta/SUHNPF.git
 cd SUHNPF
@@ -26,15 +24,13 @@ pip install -r requirements.txt
 
 This codebase requires is designed around Python 3.7 and Tensorflow 2.10
 
-## Citation
 
-### Authors
 
-*Soumyajit Gupta ([@smjtgupta](https://github.com/smjtgupta)), Gurpreet Singh, Raghu Bollapragada, Matthew Lease*
-
-### Abstract
+### Arxiv
 
 [[Arxiv Paper]](https://arxiv.org/pdf/2110.15442.pdf)
+
+## Citation
 
 To cite this work, please follow the given format.
 
