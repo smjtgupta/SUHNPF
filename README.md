@@ -17,16 +17,17 @@ pip install -r requirements.txt
 
 ## Experiments
 
-- `Demo.ipynb' contains the working logic of the solver
+- `demo.ipynb' contains the working logic of the solver
 - Folder 'examples' contains the cases and solver files
 
 ## Requirements
 
-This codebase requires is designed around Python 3.7 and Tensorflow 2.10
+This codebase requires is designed around Python 3.7 and Tensorflow 2.1
+Note that Tensorflow might cause issues with symbolic gradient depending
+on version. Update accordingly.
 
 
-
-### Arxiv
+### Paper
 
 [[Arxiv Paper]](https://arxiv.org/pdf/2110.15442.pdf)
 
